@@ -45,6 +45,10 @@ La sua presenza scenica è fortemente influenzata dalla tradizione umoristica am
 
 ---
 
+## APPUNTI ANCORA DA ORGANIZZARE
+
+---
+
 ## Cosa ti piace più di questo corso? 
 
 ### Il parcheggio
@@ -77,21 +81,207 @@ Brontolo non finire tutto quello che c'è nel frigo
 P.S.
   Questo vale anche per te, per te, per te, per te, per te e per te.
 
-Ragazzi non mangiate la mela che c'è nel frigo: è la mia colazione di domani.  
+Ragazzi non mangiate la mela che c'è nel frigo: è la mia colazione di domani.
+
+---
+
+## Usare la seconda battuta e non la prima
+
+La seconda battuta è quella che ci permette di essere più creativi.
+
+---
+
+## Premessa e chiusa
+
+La premessa e la chiusa sono importanti per dare un senso alla battuta.
+
+La premessa dovrebbe spiazzare l'ascoltatore.
+La chiusa deve essere assolutamente in fondo alla frase.
+
+---
+
+## La lista della spesa di Marilin Manson
+
+- Ricordarsi di prendere
+  - 10 cartoni di pizza surgelata
+  - 20 barretta di cioccolato fondente
+  - le supposte di glicerina
+  - 10 corone d'aglio
+  - 10 pippistrelli
+  - Sangue finto
+  - Andare a fare la comunione
+
+---
+
+## Regola del 3
+
+- Giochi di parole
+- Spiazzamento (reverse missdirection)
+- Regola del 3
+  - Vero
+  - Verosimile
+  - Assurdo
+
+---
+
+## Giochi di parole
+
+Parole che suonano simili
+
+Opera famosa -> Tutti pazzi per Mary
+Storpiatura -> Tutti i pezzi di Mary
+Storia
+
+---
+
+## Esempi
+
+Silvester Stampone
+Letizia Castorama
+John Travetto
+Stampo e Olio
+
+---
+
+## Cosa non usare nelle chiuse
+
+Talmente tanto che
+
+---
+
+## Lavorare per immagini
+
+"Mi piacciono le ragazze con la testa sulle spalle"
+"Odio il collo"
+
+Migoni su Ikea : l'uomo è come un palloncino legato a una staccionata
+
+---
+
+## Spiazzamento
+
+Premessa a chiusa
+
+Premessa per esagerazione
+  - il mio presepio è sfigato
+
+Chiusa
+  - Gesù è orfano
+  - ho due simmentall che fanno da bue e asinello
+
+---
+
+## Proverbi di James Tont
+
+Chi la fa -> tiri l'acqua
+
+---
+
+## Domande e risposte assurde
+
+Non rispondere la prima cosa: il giusto è sbagliatto
+
+Finire una frase è più facile che fare una domanda aperta.
+
+Difficile: un elettrodomestico della cucina?
+Facile: sono andato in cucina e ho preso ...
+
+---
+
+## Pensiero laterale
+
+Prima frase sul suolo lunare
+
+Chiusa:
+  - Ma ho preso le chiavi della navicella?
+  - Nooo le chiavi della navicella!!
+  - Micio micio micio
+  - E ora cosa faccio?
+  - No anche qua c'à la ZTL
+
+---
+
+## ___ talmente tanto ___ che ___
+
+__mia mamma è__ talmente tanto __bassa__ che __mette lo sgabello per pulire sotto ai mobili__
+__mia mamma è__ talmente tanto __brutta__ che __sulla carta di identità ha la foto di nuca__
+__mia mamma è__ talmente tanto __vecchia__ che __potrebbe essere la suocera di Adamo__
+__mia mamma è__ talmente tanto __bassa__ che __quando era giovane non esisteva la ruota__
+__mia mamma è__ talmente tanto __bassa__ che __è nata prima dell'uovo e della gallina__
+__mia mamma è__ talmente tanto __bassa__ che __sulla patente non ha più spazio per i rinnovi__
+
+---
+
+## Soggetto, battura, chiusa
+
+Argomento: vacanze
+
+Ho fatto le vacanze così tristi che: per divertirmi sono andato in pellegrinaggio a lourdes
+Ho fatto le vacanze cosi tristi che: per divertirmi sono andato a fare il volontario in ospedale
+Ho fatto le vacanze così corte che: ho fatto le foto al benzinaio
+In vacanza c'era così tanta gente che: ho messo l'asciugamano sul tetto dell'auto
+Era così pieno di meridionali che il venditore di cocco andava in giro con la parmigiana di melanzane
+
+Guarda era pieno di meridionali: da cosa l'hai capito? Da quando ho visto il venditore di cocco che andava in giro con la parmigiana di melanzane
+
+---
+
+## I ladri filippini
+
+"Rubati 200 euro, ma la camicia era stirata"
+
+---
+
+## Sostituzione di lettere
+
+LuPorno -> PelliChiavo
+GiRacchia -> CerBrutto
+CapPulcino -> Corvetto
+
+---
+
+## Monologo
+
+Si tratta di un monologo quando le battute sono collegate tra loro.
+
+Scegliete un argomento vasto: ex computer
+
+Oggetti: mouse, chiavetta e stampante
+Astratto: wifi,  bit, internet e spam
+Persone: Programmatori, impiegati, studenti, nonno e youtuber
+Problemi: aggiornamenti, rotture e incompatibile
+
+Creare una mappa mentale che collega gli argomenti
+
+---
+
+## Battuta sulla tastiera
+
+La mia ragazza è così patita di Facebook che prima di fare l'amore con me crea un evento
+Mio fratello non naviga in Internet perchè non sa nuotare
+Ho una stampante talmente vecchia che la carico a tavolette d'argilla
+Ho un compute così moderno che si è creato da solo un profilo su facebook
+"Schiacciare cancelletto" è passata sul cancello di casa
+Sono andato da FNAC e excel aveva la funzione "falso in bilancio": probabilmente era fabbricato in Italia
+Il solitario sul mio pc preferiva leggere i giornalini porno
+
+---
+
+## Iniziare con battute facili
+
+Da settimana scorsa sono felice di essere italiano
+Se non te la puoi permettere ci sono persone felici di regalarti una casa al Colosseo
+
+(n.d.r: Citazione da fatto di cronaca: nel 2010 era famosa la notizia di Scajola che aveva un loft con vista sul Colosseo pagato a sua insaputa)
+
+Amo vivere a Novara: anche le zanzare.
 
 ---
 
 ## Fonti usate per la creazione di queste slide
 
-<https://github.com/matteobaccan/awesome-ai> : La mia lista ragionata di AI
-<https://github.com/ai-collection/ai-collection> : una lista molto completa di AI
 <https://chat.openai.com> : ChatGPT
 <https://it.wikipedia.org> : definizioni e argomenti
-<https://www.tutorialspoint.com/artificial_intelligence/> : Tutorial AI
-<https://flowgpt.com/> : Esempi di prompt per ChatGPT
-<https://www.youtube.com/watch?v=sVvGZDoEEeQ> : 1100. Che cosa sono GPT, GPT-3 e ChatGPT e cosa possono fare? Introduzione semplice in italiano!
-<https://aaronsim.notion.site/b4f5dd304d9a4683a70167b6cc4b94f1?v=6cc0bd8ce4f04f26ad088e44c910b167> : elenco di prodotti basati su AI
-<https://letsview.com/ai-tools> : Directory di prodotti AI
 
 Ogni immagine inserita riporta la fonte
 

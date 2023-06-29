@@ -2,7 +2,7 @@
 
 [![Genera PDF](https://github.com/matteobaccan/CorsoScritturaComica/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/CorsoScritturaComica/actions/workflows/generatepdf.yml)
 
-Corso di introduzione alle AI (Artificial Intelligence)
+Corso di introduzione alla scrittura comica tenuto da Federico Basso.
 
 ## Appunti del corso di Federico Basso del 8 Maggio 2010
 
