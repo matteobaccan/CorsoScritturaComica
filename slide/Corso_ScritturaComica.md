@@ -27,15 +27,23 @@ img[alt~='center'] {
 
 ## Genesi di queste slide
 
-Nella mia vita ho avuto il piacere di frequentare molti corsi.
+Nella mia vita ho avuto il piacere di frequentare molti corsi: parecchi in ambito informatico, ma anche molti in ambito teatrale.
 
-Alcuni di questi non avevamo del materiale a corredo.
+Mi piace coltivare sia il mio lato "tecnico" che il mio lato "artistico", anche se probabilmente non ho tutto il talento che si chiede ad un vero artista.
 
-Per questa ragione ho preso appunti che sto trasformando in slide, con la speranza possano aiutare altri a studiare gli stessi argomenti.
+Se i corsi "tecnici" sono spesso corredati da materiale che è possibile consultare a casa dopo il corso, quelli "artistici" sono più legati a un'emozione del momento, a un percorso che segue il docente ed è più difficile avere del materiale a corredo.
+
+Per mia natura prendo spesso appunti, che provo a trasformare in slide, con la speranza possano aiutare altri a studiare gli stessi argomenti.
 
 ---
 
-## Chi è Federico Basso
+## Corso di Scrittura comica
+
+Questo corso è stato tenuto da Federico Basso, comico e autore di Zelig l'8 e 9 maggio 2010 presso la scuola di teatro "Quinta Tinta" di Torino.
+
+---
+
+## Chi è Federico Basso (da wikipedia)
 
 Diplomatosi come Perito elettronico presso l'Itis Giuseppe Peano di Torino, si iscrive alla scuola civica di cinema e televisione a Milano. Artisticamente nasce nella scuola di teatro diretta da Alessandro Bontempi a Segrate, cresce con gli spettacoli d'improvvisazione teatrale e approda ai laboratori Zelig nel 2003.
 
@@ -49,7 +57,7 @@ La sua presenza scenica è fortemente influenzata dalla tradizione umoristica am
 
 ---
 
-## Cosa ti piace più di questo corso? 
+## Cosa ti piace più di questo corso?
 
 ### Il parcheggio
 
