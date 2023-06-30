@@ -53,49 +53,52 @@ La sua presenza scenica è fortemente influenzata dalla tradizione umoristica am
 
 ---
 
-## APPUNTI ANCORA DA ORGANIZZARE
+## Scrivere delle battute sembra facile. Proviamo a farlo
+
+Cosa ti piace più di questo corso? Il parcheggio
+
+Cosa ne pensi di Federico Basso? Lo pensavo più basso (n.d.r. è alto 1,98)
+
+Quando sono entrato avevo un mare di aspettative, poi ha parlato Federico e mi sono passate, ora l'unica cosa in cui spero è che finisca in 5 minuti
 
 ---
 
-## Cosa ti piace più di questo corso?
+## Scrivere delle battute non vuol dire raccontare delle barzellette
 
-### Il parcheggio
-
-## Cosa ne pensi di Federico Basso?
-
-### Lo pensavo più basso (n.d.r. è alto 1,98)
-
-## Quando sono entrato avevo un mare di aspettative, poi ha parlato Federico e mi sono passate, ora l'unica cosa in cui spero è che finisca in 5 minuti
-
----
-
-## C'era un italiano, un piemontese e una finlandese ... forse non è il caso
+C'era un italiano, un piemontese e una finlandese ... forse non è il caso
 
 ---
 
 ## Troppa libertà = nessuna libertà
 
-Avere troppa libertà è come non averne affatto. Ci sono piccole regole che ci permettono di essere più creativi.
+Avere troppa libertà è come non averne affatto. Ci sono delle piccole regole che ci permettono di essere più creativi:
 
 - Immedesimarsi
-- Obiettivo certo
-- Singolare presente
+- Avere un obiettivo certo
+- Utilizzare il singolare presente
 
 ---
 
 ## Biancaneve e il postIt sul frigo
 
-Brontolo non finire tutto quello che c'è nel frigo
-P.S.
-  Questo vale anche per te, per te, per te, per te, per te e per te.
+Proviamo ad immedesimarci in Biancaneve e a scrivere una battuta che potrebbe dire, con un postIt sul frigo.
 
+```
+Brontolo non finire tutto quello che c'è nel frigo
+P.S. questo vale anche per te, per te, per te, per te, per te e per te.
+```
+
+```
 Ragazzi non mangiate la mela che c'è nel frigo: è la mia colazione di domani.
+```
 
 ---
 
 ## Usare la seconda battuta e non la prima
 
-La seconda battuta è quella che ci permette di essere più creativi.
+Molto spesso la prima cosa che ci viene in mente è la più scontata e ha poca creatività.
+
+Usare la seconda battuta ci permette di essere più creativi.
 
 ---
 
@@ -103,21 +106,27 @@ La seconda battuta è quella che ci permette di essere più creativi.
 
 La premessa e la chiusa sono importanti per dare un senso alla battuta.
 
+```
 La premessa dovrebbe spiazzare l'ascoltatore.
-La chiusa deve essere assolutamente in fondo alla frase.
+```
+
+```
+La chiusa deve essere in fondo alla frase.
+```
 
 ---
 
 ## La lista della spesa di Marilin Manson
 
-- Ricordarsi di prendere
-  - 10 cartoni di pizza surgelata
-  - 20 barretta di cioccolato fondente
-  - le supposte di glicerina
-  - 10 corone d'aglio
-  - 10 pippistrelli
-  - Sangue finto
-  - Andare a fare la comunione
+Pensiamo alla lista della spesa di Marilin Manson, cosa potrebbe esserci?
+
+- 10 cartoni di pizza surgelata
+- 20 barrette di cioccolato fondente
+- le supposte di glicerina
+- 10 corone d'aglio
+- 10 pipistrelli
+- Sangue finto
+- Andare a fare la comunione
 
 ---
 
@@ -142,7 +151,9 @@ Storia
 
 ---
 
-## Esempi
+## Storpiatura delle porole
+
+Pensiamo a dei nomi famosi e proviamo a storpiarli
 
 Silvester Stampone
 Letizia Castorama
@@ -159,23 +170,31 @@ Talmente tanto che
 
 ## Lavorare per immagini
 
+```
 "Mi piacciono le ragazze con la testa sulle spalle"
 "Odio il collo"
+```
 
-Migoni su Ikea : l'uomo è come un palloncino legato a una staccionata
+Migoni su Ikea
+
+```
+l'uomo è come un palloncino legato a una staccionata
+```
 
 ---
 
 ## Spiazzamento
 
-Premessa a chiusa
+Premessa e chiusa
 
 Premessa per esagerazione
-  - il mio presepio è sfigato
+
+- il mio presepio è sfigato
 
 Chiusa
-  - Gesù è orfano
-  - ho due simmentall che fanno da bue e asinello
+
+- Gesù è orfano
+- ho due simmentall che fanno da bue e asinello
 
 ---
 
@@ -187,7 +206,7 @@ Chi la fa -> tiri l'acqua
 
 ## Domande e risposte assurde
 
-Non rispondere la prima cosa: il giusto è sbagliatto
+Non rispondere la prima cosa: il giusto è sbagliato
 
 Finire una frase è più facile che fare una domanda aperta.
 
@@ -201,11 +220,12 @@ Facile: sono andato in cucina e ho preso ...
 Prima frase sul suolo lunare
 
 Chiusa:
-  - Ma ho preso le chiavi della navicella?
-  - Nooo le chiavi della navicella!!
-  - Micio micio micio
-  - E ora cosa faccio?
-  - No anche qua c'à la ZTL
+
+- Ma ho preso le chiavi della navicella?
+- Nooooo le chiavi della navicella!!
+- Micio micio micio
+- E ora cosa faccio?
+- No anche qua c'à la ZTL
 
 ---
 
@@ -220,11 +240,11 @@ __mia mamma è__ talmente tanto __bassa__ che __sulla patente non ha più spazio
 
 ---
 
-## Soggetto, battura, chiusa
+## Soggetto, battuta, chiusa
 
 Argomento: vacanze
 
-Ho fatto le vacanze così tristi che: per divertirmi sono andato in pellegrinaggio a lourdes
+Ho fatto le vacanze così tristi che: per divertirmi sono andato in pellegrinaggio a Lourdes
 Ho fatto le vacanze cosi tristi che: per divertirmi sono andato a fare il volontario in ospedale
 Ho fatto le vacanze così corte che: ho fatto le foto al benzinaio
 In vacanza c'era così tanta gente che: ho messo l'asciugamano sul tetto dell'auto
@@ -236,7 +256,9 @@ Guarda era pieno di meridionali: da cosa l'hai capito? Da quando ho visto il ven
 
 ## I ladri filippini
 
-"Rubati 200 euro, ma la camicia era stirata"
+Mi hanno rubato 200 euro dalla camicia, ma ho capito che erano stati i filippini
+E come hai fatto?
+Perché la camicia era stirata
 
 ---
 
@@ -254,10 +276,10 @@ Si tratta di un monologo quando le battute sono collegate tra loro.
 
 Scegliete un argomento vasto: ex computer
 
-Oggetti: mouse, chiavetta e stampante
-Astratto: wifi,  bit, internet e spam
-Persone: Programmatori, impiegati, studenti, nonno e youtuber
-Problemi: aggiornamenti, rotture e incompatibile
+Oggetti: __mouse, chiavetta e stampante__
+Astratto: __wifi,  bit, internet e spam__
+Persone: __Programmatori, impiegati, studenti, nonno e youtuber__
+Problemi: __aggiornamenti, rotture e incompatibile__
 
 Creare una mappa mentale che collega gli argomenti
 
@@ -266,7 +288,7 @@ Creare una mappa mentale che collega gli argomenti
 ## Battuta sulla tastiera
 
 La mia ragazza è così patita di Facebook che prima di fare l'amore con me crea un evento
-Mio fratello non naviga in Internet perchè non sa nuotare
+Mio fratello non naviga in Internet perché non sa nuotare
 Ho una stampante talmente vecchia che la carico a tavolette d'argilla
 Ho un compute così moderno che si è creato da solo un profilo su facebook
 "Schiacciare cancelletto" è passata sul cancello di casa
@@ -277,12 +299,16 @@ Il solitario sul mio pc preferiva leggere i giornalini porno
 
 ## Iniziare con battute facili
 
+```
 Da settimana scorsa sono felice di essere italiano
 Se non te la puoi permettere ci sono persone felici di regalarti una casa al Colosseo
+```
 
 (n.d.r: Citazione da fatto di cronaca: nel 2010 era famosa la notizia di Scajola che aveva un loft con vista sul Colosseo pagato a sua insaputa)
 
+```
 Amo vivere a Novara: anche le zanzare.
+```
 
 ---
 
