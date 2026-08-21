@@ -116,9 +116,9 @@ La chiusa deve essere in fondo alla frase.
 
 ---
 
-## La lista della spesa di Marilin Manson
+## La lista della spesa di Marilyn Manson
 
-Pensiamo alla lista della spesa di Marilin Manson, cosa potrebbe esserci?
+Pensiamo alla lista della spesa di Marilyn Manson, cosa potrebbe esserci?
 
 - 10 cartoni di pizza surgelata
 - 20 barrette di cioccolato fondente
@@ -133,7 +133,7 @@ Pensiamo alla lista della spesa di Marilin Manson, cosa potrebbe esserci?
 ## Regola del 3
 
 - Giochi di parole
-- Spiazzamento (reverse missdirection)
+- Spiazzamento (reverse misdirection)
 - Regola del 3
   - Vero
   - Verosimile
@@ -225,7 +225,7 @@ Chiusa:
 - Nooooo le chiavi della navicella!!
 - Micio micio micio
 - E ora cosa faccio?
-- No anche qua c'à la ZTL
+- No anche qua c'è la ZTL
 
 ---
 
@@ -290,7 +290,7 @@ Creare una mappa mentale che collega gli argomenti
 La mia ragazza è così patita di Facebook che prima di fare l'amore con me crea un evento
 Mio fratello non naviga in Internet perché non sa nuotare
 Ho una stampante talmente vecchia che la carico a tavolette d'argilla
-Ho un compute così moderno che si è creato da solo un profilo su facebook
+Ho un computer così moderno che si è creato da solo un profilo su facebook
 "Schiacciare cancelletto" è passata sul cancello di casa
 Sono andato da FNAC e excel aveva la funzione "falso in bilancio": probabilmente era fabbricato in Italia
 Il solitario sul mio pc preferiva leggere i giornalini porno

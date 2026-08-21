@@ -4,7 +4,15 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'slide/*.*'
+      - 'slide/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -17,13 +25,16 @@ jobs:
     - name: generate pdf
       run: |
         cd slide
-        docker run --rm --init -v $PWD:/home/marp/app/ -e LANG="it_IT.UTF-8" -e MARP_USER="$(id -u):$(id -g)" marpteam/marp-cli Corso_ScritturaComica.md --pdf --allow-local-files --html
+        docker run --rm --init -v $PWD:/home/marp/app/ -e LANG="it_IT.UTF-8" -e MARP_USER="$(id -u):$(id -g)" marpteam/marp-cli:v4.5.0 Corso_ScritturaComica.md --pdf --allow-local-files --html
 
     - name: commit & push
       run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add -A
-        git config user.name github-actions
-        git config user.email github-actions@github.com
-        git add .
-        git commit -m "update slides"
-        git push
+        if git diff --cached --quiet; then
+          echo "Nessuna modifica da committare"
+        else
+          git commit -m "update slides"
+          git push
+        fi
